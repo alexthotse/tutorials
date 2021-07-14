@@ -89,3 +89,18 @@ https://torre.co/jobs/JdmGOXgW-east-recruit-jobs-admin-support-clerks-work-from-
 
 14 July
 https://github.com/mattetti/goRailsYourself
+http://code.gilt.com/
+https://pkg.go.dev/fmt#hdr-Printing
+https://blog.golang.org/gos-declaration-syntax
+https://camo.githubusercontent.com/2b507540e2681c1a25698f246b9dca69c30548ed66a7323075b0224cbb1bf058/68747470733a2f2f676f6c616e672e6f72672f646f632f676f706865722f6669766579656172732e6a7067
+https://youtu.be/j5Zsa_eOXeY
+https://youtu.be/BwuLxPH8IDs
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
+https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/syllabus/
+https://youtu.be/LmBCEAfHH8w
+https://www.youtube.com/watch?v=9ajj9508uvU
+https://youtu.be/LmBCEAfHH8w
+https://opensource.com/article/21/6/osquery-linux?utm_medium=Email&utm_campaign=weekly&sc_cid=7013a000002wMiLAAU
+https://anandology.com/python-practice-book/
+https://www.sqlcourse.com/
+https://work.caltech.edu/telecourse
