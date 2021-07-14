@@ -104,3 +104,4 @@ https://opensource.com/article/21/6/osquery-linux?utm_medium=Email&utm_campaign=
 https://anandology.com/python-practice-book/
 https://www.sqlcourse.com/
 https://work.caltech.edu/telecourse
+https://www.softcover.io/downloads/88e295ad/GoBootcamp
