@@ -105,3 +105,23 @@ https://anandology.com/python-practice-book/
 https://www.sqlcourse.com/
 https://work.caltech.edu/telecourse
 https://www.softcover.io/downloads/88e295ad/GoBootcamp
+
+
+15 july
+https://dev.golang.org/
+https://pkg.go.dev/golang.org/x/build/devapp?utm_source=godoc
+https://www.youtube.com/c/marcan42/playlists
+https://www.tutorialspoint.com/agile/agile_quick_guide.htm
+https://github.com/numpy/numpy/blob/v1.14.2/numpy/lib/twodim_base.py#L140-L194
+https://github.com/fastai/fastai1
+https://www.mrdbourke.com/2020-machine-learning-roadmap/amp/
+https://www.reddit.com/r/ITCareerQuestions/comments/9m0fpw/just_finished_the_google_it_support_professional/
+https://dev.mrdbourke.com/tensorflow-deep-learning/
+https://youtu.be/tUO0cnSaSy4
+https://www.youtube.com/channel/UCqRfhD3bKs-6gc5lPh2fRVw/videos
+https://youtu.be/GK15PYfl9dE
+https://www.youtube.com/watch?v=irgo56knnzI
+https://www.sqlcourse.com/
+https://github.com/apurva2303/Google-IT-Support-Professional-Certificate-Notes/blob/master/Notes.md
+https://www.linkedin.com/pulse/my-review-google-support-professional-certificate-taught-hamdan/
+https://www.apple.com/us-hed/shop/buy-mac/macbook-air/gold-apple-m1-chip-with-8-core-cpu-and-8-core-gpu-512gb#
